@@ -17,7 +17,7 @@ ms.author: lizross
 
 # Manage app passwords for two-step verification
 
-Certain non-browser apps, such as Outlook 2010, doesn't support two-step verification. This lack of support means that if you're using two-step verification, the app won't work. To get around this problem, you can create an auto-generated password to use with each non-browser app, separate from your normal password.
+Certain non-browser apps, such as Outlook 2010, don't support two-step verification. This lack of support means that if you're using two-step verification, the app won't work. To get around this problem, you can create an auto-generated password to use with each non-browser app, separate from your normal password.
 
 When using app passwords, it's important to remember:
 
